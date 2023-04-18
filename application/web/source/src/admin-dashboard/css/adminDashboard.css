@@ -1,0 +1,16 @@
+#admin-dashboard {
+    background-color: lightsalmon;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    padding: 0.5rem 0.75rem;
+}
+
+#failure-report {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#title {
+    text-align: center;
+}

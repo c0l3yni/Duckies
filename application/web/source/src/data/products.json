@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "name": "Golden Duck",
+    "price": 150,
+    "stock": 2
+  },
+  {
+    "id": "2",
+    "name": "1 Duck",
+    "price": 200,
+    "stock": 4
+  },
+  {
+    "id": "3",
+    "name": "",
+    "price": 300,
+    "stock": 5
+  },
+  {
+    "id": "4",
+    "name": ".?!",
+    "price": 999999,
+    "stock": 11111
+  },
+  {
+    "id": "5",
+    "name": "RUBBER DUCK",
+    "price": 100,
+    "stock": 3
+  },
+  {
+    "id": "6",
+    "name": "#@",
+    "price": 30000,
+    "stock": 0
+  },
+  {
+    "id": "7",
+    "name": "Ugly? duck",
+    "price": 2000,
+    "stock": 11111
+  },
+  {
+    "id": "8",
+    "name": "<?php>DROP * FROM users<?>",
+    "price": 100,
+    "stock": 11111
+  },
+  {
+    "id": "9",
+    "name": "productRegion.classList.add('product')",
+    "price": 1000,
+    "stock": 11111
+  },
+  {
+    "id": "10",
+    "name": "THIS STRING IS 256 CHARACTERS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "price": 12330,
+    "stock": 11111
+  },
+  {
+    "id": "11",
+    "name": "0145",
+    "price": 14560,
+    "stock": 1
+  },
+  {
+    "id": "12",
+    "name": "ducks",
+    "price": 1500,
+    "stock": -1
+  },
+  {
+    "id": "13",
+    "name": "/t",
+    "price": 10000,
+    "stock": 11111
+  }
+]

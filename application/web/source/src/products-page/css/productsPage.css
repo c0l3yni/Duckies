@@ -1,0 +1,33 @@
+.product {
+    margin-left: 1rem;
+}
+
+.product-name {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.add-to-cart {
+    font-size: 12px;
+    width: 200px;
+    height: 30px;
+    border-radius: 200px;
+    background: var(--primaryColor);
+    color: var(--blackTheme);
+}
+
+button.add-to-cart:disabled {
+    border: 3px solid #999999;
+    background: #cccccc;
+}
+
+div.out-of-stock-message {
+    color: var(--brownTheme);
+    font-size: 25px;
+    font-weight: 700;
+}
+
+ul {
+    list-style-type: none;
+}

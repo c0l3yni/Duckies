@@ -1,0 +1,66 @@
+[{
+        "id": "1",
+        "name": "Golden Duck",
+        "price": 150
+    },
+    {
+        "id": "2",
+        "name": "1 Duck",
+        "price": 99999999
+    },
+    {
+        "id": "3",
+        "name": "",
+        "price": 77790
+    },
+    {
+        "id": "4",
+        "name": ".?!",
+        "price": 999999
+    },
+    {
+        "id": "5",
+        "name": "RUBBER DUCK",
+        "price": 5888
+    },
+    {
+        "id": "6",
+        "name": "#@",
+        "price": 30000
+    },
+    {
+        "id": "7",
+        "name": "Ugly? duck",
+        "price": 2000
+    },
+    {
+        "id": "8",
+        "name": "<?php>DROP * FROM users<?>",
+        "price": 100
+    },
+    {
+        "id": "9",
+        "name": "productRegion.classList.add('product')",
+        "price": 1000
+    },
+    {
+        "id": "10",
+        "name": "THIS STRING IS 256 CHARACTERS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "price": 12330
+    },
+    {
+        "id": "11",
+        "name": "0145",
+        "price": 14560
+    },
+    {
+        "id": "12",
+        "name": "ducks",
+        "price": 1500
+    },
+    {
+        "id": "13",
+        "name": "/t",
+        "price": 10000
+    }
+]
